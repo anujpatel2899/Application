@@ -1,3 +1,3 @@
-# Updated the Story of Application the Developer B
+# Updated the Story of Application the Developer A and B
 
-# Update the Story Application of the Developer A
+
